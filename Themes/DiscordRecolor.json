@@ -1,6 +1,6 @@
 {
    "name": "DiscordRecolor",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "eternal's AMOLED theme but with my horrible attempt at recoloring it to my desktop theme colors",
    "authors": [
       {
@@ -78,7 +78,7 @@
          "#FFFFFF"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-         "#000000",
+         "#0D152A",
          "#FFFFFF"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
