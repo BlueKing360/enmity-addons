@@ -1,11 +1,15 @@
 {
-   "name": "AMOLED",
+   "name": "DiscordRecolor",
    "version": "1.0.0",
-   "description": "A mostly pitch black theme with exceptions such as buttons being a bit lighter for convenience.",
+   "description": "eternal's AMOLED theme but with my horrible attempt at recoloring it to my desktop theme colors",
    "authors": [
       {
          "name": "eternal",
          "id": "263689920210534400"
+      }
+      {
+         "name": "37beans",
+         "id": "319965183428657162"
       }
    ],
    "theme_color_map": {
@@ -46,23 +50,23 @@
          "#FFFFFF"
       ],
       "BACKGROUND_PRIMARY": [
-         "#000000",
+         "#121A2F",
          "#FFFFFF"
       ],
       "BACKGROUND_SECONDARY": [
-         "#000000",
+         "#0D152A",
          "#FFFFFF"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-         "#000000",
+         "#081025",
          "#FFFFFF"
       ],
       "BACKGROUND_TERTIARY": [
-         "#000000",
+         "#030B20",
          "#FFFFFF"
       ],
       "BACKGROUND_ACCENT": [
-         "#000000",
+         "#0F1424",
          "#FFFFFF"
       ],
       "BACKGROUND_FLOATING": [
@@ -70,11 +74,11 @@
          "#FFFFFF"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-         "#000000",
+         "#121A2F",
          "#FFFFFF"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-         "#000000",
+         "#0D152A",
          "#FFFFFF"
       ],
       "BACKGROUND_NESTED_FLOATING": [
