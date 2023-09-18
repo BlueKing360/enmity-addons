@@ -78,7 +78,7 @@
          "#FFFFFF"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-         "#0D152A",
+         "transparent",
          "#FFFFFF"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
@@ -118,7 +118,7 @@
          "#FFFFFF"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-         "transparent",
+         "#081025",
          "#FFFFFF"
       ],
       "CHANNELS_DEFAULT": [
