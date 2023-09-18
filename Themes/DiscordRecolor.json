@@ -1,6 +1,6 @@
 {
    "name": "DiscordRecolor",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "description": "eternal's AMOLED theme but with my horrible attempt at recoloring it to my desktop theme colors",
    "authors": [
       {
@@ -10,7 +10,7 @@
    ],
    "theme_color_map": {
       "KEYBOARD": [
-         "#0D152A",
+         "#121A2F",
          "#FFFFFF"
       ],
       "HEADER_PRIMARY": [
